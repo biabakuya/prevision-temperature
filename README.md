@@ -15,10 +15,6 @@ Voici l'organisation des fichiers et dossiers dans ce dépôt :
 
 ---
 
-## ⚙️ Prérequis et dépendances
-### Langage utilisé
-- **Python 3.8+**
-
 ### Bibliothèques nécessaires
 Installez les dépendances avec :
 ```bash
